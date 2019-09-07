@@ -21,7 +21,7 @@ author:  # change following line to your infomation.
   # facebook_username: jiakunnj  # Leave blank if you don't have now
   # twitter_username: jiakun614  # Leave blank if you don't have now
   email: dsiegler2000@gmail.com  # Leave blank if you don't have now
-  cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: /static/files/resume.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-unity
@@ -29,7 +29,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-python
     - name: icon-java-bold
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: THIS PAGE IS A WIP. Fill this out.  # Describe yourself.
 
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

@@ -28,7 +28,7 @@
                   <span class="navy">{{ activity.name }}</span>
                   {% endif %}
                   </h4>
-                  <p><span data-i18n="activities.{{ activity.i18n }}">{{ activity.desc }}</span></p>
+                  <p><span data-i18n="activities.{{ activity.i18n }}">{{ activity.desc }}<br/><br/><br/></span></p>
                   {% if activity.repo %}
                   <div user="{{ activity.gh_user }}" repo="{{ activity.repo }}" class="ghbtn">
                       <a target="_blank" style="width: 65px;" href="https://github.com/{{ activity.gh_user }}/{{ activity.repo }}/stargazers" class="btn btn-white btn-xs star"><i class="fa fa-star"></i> ...</a>&emsp;&emsp;

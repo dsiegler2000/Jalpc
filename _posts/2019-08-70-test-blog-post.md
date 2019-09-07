@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "code snippet test"
-date:   2017-12-21
-desc: "Quick test on writing code snippets in a blog post"
-keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [HTML]
+title:  "Test"
+date:   2019-08-07
+desc: "Quick test on blogging"
+keywords: "blog"
+categories: [Python, Machine Learning]
 tags: [Jalpc,Jekyll]
-icon: icon-html
+icon: icon-python
 ---
 
 This is a raw snippet:
 
 ```
-hello worlds
+hello world
 123
 This is a text snippet
 ```

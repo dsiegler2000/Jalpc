@@ -2,21 +2,21 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: FIRST Tech Challenge (FTC) Robotics
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  img: /static/assets/img/landing/ftc.png
+  url: /link/to/blog/post
+  desc: Copy stuff from resume, state that im captain and prgramming lead and whatever
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
+- name: Strnad Research Fellow
+  img: /static/assets/img/landing/uslogo.png
+  url: /link/to/blog/post
   desc: This project is other's project. I use another request to get repo's information.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: RoboJackets RoboRacing
+  img: /static/assets/img/landing/robobuzz.png
+  url: /link/to/blog/post
+  desc: generic description
+
+- name: The Agency
+  img: /static/assets/img/landing/agency.png
+  url: link/to/blog/post
+  desc: generic description

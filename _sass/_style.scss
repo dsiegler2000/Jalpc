@@ -2357,7 +2357,6 @@ body {
   }
 }
 
-
 .landing-page {
   span.navy {
     color: #3385FF;
@@ -2373,7 +2372,7 @@ body {
     }
   }
   section p {
-    color: #aeaeae;
+    color: #8c8c8c;
     font-size: 13px;
   }
   h1 {
@@ -2656,10 +2655,10 @@ body {
     padding-top: 80px;
     padding-bottom: 90px;
     background-color: #3385FF;
-    background-image: url(../assets/img/landing/avatar_all.png);
+    background-image: url(../assets/img/landing/world_map.png);
   }
   .contact {
-    background-image: url(../assets/img/landing/word_map.png);
+    /*background-image: url(../assets/img/landing/word_map.png);*/
     background-position: 50% 50%;
     background-repeat: no-repeat;
     margin-top: 60px;
