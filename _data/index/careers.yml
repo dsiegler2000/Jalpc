@@ -4,7 +4,10 @@
     detail: Start College
     i18n: college
   desc:
-    detail: I graduated from University School in Cleveland, Ohio Summa Cum Laude and started pursuing a B.S. in Computer Science at the Georgia Institute of Technology.
+    detail: 'I graduated from University School in Cleveland, Ohio Summa Cum
+    Laude and started pursuing a B.S. in Computer Science at the Georgia
+    Institute of Technology.'
+    url: /link/to/blog/post
     i18n: college_description
   date:
     detail: May 2019
@@ -12,13 +15,15 @@
   job:
     detail:
     i18n: college_job
-  icon: 
+  icon:
 
 - name:
     detail: Cleveland State University
     i18n: CSU2
   desc:
-    detail: Returned for a second summer, talk about what I did, worked in a group, potential publication
+    detail: 'This past summer I worked on using Keras and Python to develop a neural
+    network to classify baseball pitch types given a video.'
+    url: /link/to/blog/post
     i18n: CSU2_description
   date:
     detail: May - Aug. 2019
@@ -32,7 +37,8 @@
     detail: WRIS Web Services
     i18n: WRIS
   desc:
-    detail: Part full time, part part time, copy from resume
+    detail: 'At WRIS, I learned about many facets of mobile development and
+    worked on a team to develop an app for club baseball players.'
     i18n: WRIS_description
   date:
     detail: May - Jul. 2018
@@ -46,7 +52,8 @@
     detail: Cleveland State University
     i18n: CSU
   desc:
-    detail: Part part time, part full time, did AR stuff, published
+    detail: 'At CSU I worked in a lab researching and developing basic training
+    programs for nurses using the Microsoft HoloLens.'
     i18n: CSU_description
   date:
     detail: May - Aug. 2018
@@ -60,7 +67,8 @@
     detail: Case Western Reserve University
     i18n: CWRU
   desc:
-    detail: Copy what I did from resume
+    detail: 'At CWRU I worked in a radiation oncology lab. I primarily focused
+    on exchanging selection markers in DNA plasmids via cloning.'
     i18n: CWRU_description
   date:
     detail: May - Aug. 2016

@@ -1136,6 +1136,12 @@ label.error {
     margin: 1em 0;
     line-height: 1.6;
   }
+  a {
+    color: #177df9  // #4265A2  //#5050DC
+  }
+  a:hover {
+    // color:#0000EE
+  }
   .vertical-date {
     float: left;
     font-weight: 500;

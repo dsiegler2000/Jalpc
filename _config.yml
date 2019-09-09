@@ -29,7 +29,12 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-python
     - name: icon-java-bold
-  desc: THIS PAGE IS A WIP. Fill this out.  # Describe yourself.
+  desc: 'I am a hardworking, driven, and dynamic student and
+  worker and I love to work in groups. I am a published author and have previous
+  experience in the areas of machine learning, data science, augmented reality
+  development, and iOS development. I would like to further my skills in these
+  areas or develop my skills in other areas that interest me, such as robotics,
+  computer vision, or back end development..'
 
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
