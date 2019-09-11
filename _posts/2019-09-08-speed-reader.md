@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Java Speed Reader"
-date:   2019-08-08
+date:   2019-09-08
 desc: "This post outlines the features in my basic desktop speed reader program and how I built it."
 keywords: "blog"
 categories: [Java, Other Work]
