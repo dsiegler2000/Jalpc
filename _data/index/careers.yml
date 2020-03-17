@@ -1,6 +1,20 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: John Deere
+    i18n: jd
+  desc:
+    detail: 'This summer I will be working at John Deere as a Data Science
+    Intern in the Intelligent Systems Group in Des Moines, Iowa'
+    i18n: jd_description
+  date:
+    detail: Summer 2020
+    i18n: jd_dates
+  job:
+    detail:
+    i18n: jd_job
+  icon:
+- name:
     detail: Start College
     i18n: college
   desc:
